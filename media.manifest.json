@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "home": "media-neutrinophysics",
- "title": "NeutrinoHit data: neutrinophysics courses and the solar neutrino masterclass",
+ "title": "NeutrinoHit films and data: neutrinophysics courses and the solar neutrino masterclass",
  "budget_bytes": 900000000,
  "media": [
   {
@@ -279,6 +279,25 @@
    "sha256": "900ac10dfd6b84ecf7481e6b466d4dda795973edc5f633eae86e6d4a6b6e64d4",
    "bytes": 38966986,
    "type": "csv"
+  },
+  {
+   "id": "neutrino-crystal",
+   "variant": "film-ru",
+   "version": 1,
+   "file": "neutrino-crystal/film-ru-v1.mp4",
+   "asset": "neutrino-crystal--film-ru--v1.mp4",
+   "release": "neutrino-crystal",
+   "url": "https://github.com/NeutrinoHit/media-neutrinophysics/releases/download/neutrino-crystal/neutrino-crystal--film-ru--v1.mp4",
+   "sha256": "e6b1225aaedf9687c7813bbfd687924b7925482edd340e49a6b29bcb7976c6b9",
+   "bytes": 10025714,
+   "duration_s": 54.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "Нейтрино как свет в кристалле: вакуум и вещество Солнца",
+    "en": "Neutrinos as light in a crystal: vacuum and solar matter"
+   }
   }
  ]
 }

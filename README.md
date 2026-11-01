@@ -1,6 +1,6 @@
 # media-neutrinophysics
 
-NeutrinoHit data: neutrinophysics courses and the solar neutrino masterclass.
+NeutrinoHit films and data: neutrinophysics courses and the solar neutrino masterclass.
 
 This repository publishes films of [NeutrinoHit](https://neutrinohit.github.io/)
 used by its animation gallery, the QR pages of the books, lectures and talks.
