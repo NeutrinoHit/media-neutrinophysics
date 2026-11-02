@@ -300,6 +300,25 @@
    }
   },
   {
+   "id": "optics-to-neutrino",
+   "variant": "film-ru",
+   "version": 2,
+   "file": "optics-to-neutrino/film-ru-v2.mp4",
+   "asset": "optics-to-neutrino--film-ru--v2.mp4",
+   "release": "optics-to-neutrino",
+   "url": "https://github.com/NeutrinoHit/media-neutrinophysics/releases/download/optics-to-neutrino/optics-to-neutrino--film-ru--v2.mp4",
+   "sha256": "23faa263b463b6b25438e9ae4b5b9549c5346f94b04c993496c189dec8b98612",
+   "bytes": 8624056,
+   "duration_s": 44.0,
+   "width": 1920,
+   "height": 1080,
+   "audio": false,
+   "title": {
+    "ru": "От оптики к нейтрино",
+    "en": "From optics to neutrinos"
+   }
+  },
+  {
    "id": "pendulum-msw",
    "variant": "adiabatic-passage",
    "version": 1,
